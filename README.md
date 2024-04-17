@@ -13,7 +13,7 @@ However, the questions are not limited from those. Also, finer details regarding
 ## Files and Folders
 * data_scraping.ipynb - Contains scripts in cells used to scrape review data.
 * eda_sentiment.ipynb - Shows scripts and outputs for conducting preprocessing, exploratory data analysis, and sentiment intensity analysis.
-* requirements.txt - Contains the libraries and versions used. You may use `pip install -r requirements.txt` to your virtual environment.
+* requirements.txt - Contains the libraries and versions used. You may use `pip install -r requirements.txt` inside your virtual environment.
 * dataset - Folder that contains CSV datasets from three branches.
 * results_csv - Folder that contains CSV files for combined data, preprocessed data, and data with outputs from sentiment intensity analysis.
 ***
