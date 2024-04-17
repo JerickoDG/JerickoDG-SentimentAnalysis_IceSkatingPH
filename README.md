@@ -10,5 +10,11 @@ For this notebook, the review data that was scraped from several ice skating bra
 
 However, the questions are not limited from those. Also, finer details regarding the data will also be investigated along the way.
 
+## Files and Folders
+* data_scraping.ipynb - Contains scripts in cells used to scrape review data.
+* eda_sentiment.ipynb - Shows scripts and outputs for conducting preprocessing, exploratory data analysis, and sentiment intensity analysis.
+* requirements.txt - Contains the libraries and versions used. You many use `pip install -r requirements.txt` to your virtual environment.
+* dataset - Folder that contains CSV datasets from three branches.
+* results_csv - Folder that contains CSV files for combined data, preprocessed data, and data with outputs from sentiment intensity analysis.
 ***
 Feel free to explore and use the dataset for your projects. It would be interesting to see what you came up with that I missed out.
