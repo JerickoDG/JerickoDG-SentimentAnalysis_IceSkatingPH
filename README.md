@@ -17,4 +17,4 @@ However, the questions are not limited from those. Also, finer details regarding
 * dataset - Folder that contains CSV datasets from three branches.
 * results_csv - Folder that contains CSV files for combined data, preprocessed data, and data with outputs from sentiment intensity analysis.
 ***
-Feel free to explore and use the dataset for your projects. It would be interesting to see what you came up with that I missed out.
+Feel free to explore and use the dataset for your projects. It would be interesting to see what you came up with that I might have missed out.
