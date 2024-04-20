@@ -6,7 +6,7 @@ Ice skating has emerged as an unexpected yet increasingly popular leisure activi
 
 For this notebook, the review data that was scraped from several ice skating branches in the Philippines specifically from Google Maps will be used to perform exploratory data analysis (EDA) and sentiment analysis. Here is the main question that we aim to answer given the data:
 
-**Do I expect a good time ice skating here?**
+**Do I expect a good time ice skating here? TLDR: Yes**
 
 However, the questions are not limited from those. Also, finer details regarding the data will also be investigated along the way.
 
